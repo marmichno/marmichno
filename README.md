@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Sass**
 
-- 📝 In future: [framer motion, tailwind, typescript.](framer motion, tailwind, typescript.)
+- 📝 In future im planning to learn: framer motion, tailwind, typescript.
 
 
 <h3 align="left">Languages and Tools:</h3>

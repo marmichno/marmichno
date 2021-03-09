@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on building my portfolio [Hearthstone APP](https://github.com/marmichno/hearthstoneAPI)
 
-- 🌱 I’m currently learning **Sass**
+- 🌱 I’m currently improving my skills with **Sass** and **Redux**
 
-- 📝 In future im planning to learn: framer motion, tailwind, typescript.
+- 📝 In future im planning to learn: framer motion, tailwind, typescript, node.js
 
 
 <h3 align="left">Languages and Tools:</h3>

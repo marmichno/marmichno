@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin Michno</h1>
 <h3 align="center">Im learning frontend</h3>
 
-- 🔭 I’m currently working on building my portfolio [Hearthstone APP](https://github.com/marmichno/hearthstoneAPI)
+- 🔭 I’m currently working on building my portfolio. Latest project: [Hearthstone APP](https://github.com/marmichno/hearthstoneAPI)
 
 - 🌱 I’m currently improving my skills with **Sass** and **Redux**
 

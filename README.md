@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my skills with **Sass** and **Redux**
 
-- 📝 In future im planning to learn: framer motion, tailwind, typescript, node.js
+- 📝 In future im planning to learn: MERN stack
 
 
 <h3 align="left">Languages and Tools:</h3>

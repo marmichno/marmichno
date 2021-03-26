@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my skills with **Sass** and **Redux**
 
-- 📝 In future im planning to learn: MERN stack
+- 📝 My current learning plan: finish food ordering project > learn Jest with react testing library and add test to my projects > upload projects on hosting > learn typeScript > learn node.js, express and mongoDB.
 
 
 <h3 align="left">Languages and Tools:</h3>

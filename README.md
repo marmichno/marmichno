@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my skills with **Sass** and **Redux**
 
-- 📝 My current learning plan: finish food ordering project > learn Jest with react testing library and add test to my projects > upload projects on hosting > learn typeScript > learn node.js, express and mongoDB.
+- 📝 My current learning plan: finish food ordering project > learn unit, end to end testing > upload projects on hosting > learn typeScript > learn node.js, express and mongoDB > build more projects.
 
 
 <h3 align="left">Languages and Tools:</h3>

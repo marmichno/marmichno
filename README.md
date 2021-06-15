@@ -3,7 +3,7 @@
 
 - 🔭 Presently im working on building my portfolio. Latest project: [Hearthstone APP](https://github.com/marmichno/hearthstoneAPI)
 
-- 📝 My current learning plan: finish food ordering project > learn unit, end to end testing > upload projects on hosting > learn typeScript > learn node.js, express and mongoDB > build more projects.
+- 📝 learn typeScript > node.js, express and mongoDB > build more projects.
 
 
 <h3 align="left">Languages and Tools:</h3>

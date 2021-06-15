@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcin Michno</h1>
 <h3 align="center">Im learning frontend</h3>
 
-- 🔭 Presently im working on building my portfolio. Latest project: [Hearthstone APP](https://github.com/marmichno/hearthstoneAPI)
+- 🔭 Presently im working on building my portfolio.
 
-- 📝 learn typeScript > node.js, express and mongoDB > build more projects.
+- 📝 Future plans: learn typeScript > node.js, express and mongoDB > build more projects.
 
 
 <h3 align="left">Languages and Tools:</h3>

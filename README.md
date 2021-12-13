@@ -31,6 +31,7 @@ technologies listed below on level which allowed me to create non commercial pro
     ✔axios
     ✔Redux
     ✔formik
+    ✔yup
     ✔react testing library
     ✔SASS with BEM notation and CSS modules
     ✔npm

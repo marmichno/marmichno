@@ -19,7 +19,7 @@ technologies listed below on level which allowed me to create non commercial pro
     <li>react native</li>
     <li>node.js</li>
     <li>mongoDB / PostgreSQL</li>
-    <li>practice things learnt in previous years and ofcourse build more projects :blush:</li>
+    <li>practice things learnt in previous years and of course build more projects :blush:</li>
   </ul>
 
 <h3>In 2021 I managed to learn:</h3>

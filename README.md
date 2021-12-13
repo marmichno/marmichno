@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcin Michno</h1>
 
-<p align="center">My adventure with programming started in highschool where I learned basics of technologies like CSS, HTML, JavaScript and PHP.</p>
-<p align="center">After graduation I started my career at Exorigo-Upos as Service Desk Consultant which gave
+<p align="left">My adventure with programming started in highschool where I learned basics of technologies like CSS, HTML, JavaScript and PHP.</p>
+<p align="left">After graduation I started my career at Exorigo-Upos as Service Desk Consultant which gave
 me opportunity to expand my soft skills and also learn how to work in company enviroment,
 administrate Windows/Windows server, maintain hardware, provide customer support and
 solve clients problems with POS applications.</p>
-<p align="center">For last two years Im learning about web development. In this time I managed to learn
+<p align="left">For last two years Im learning about web development. In this time I managed to learn
 technologies listed below on level which allowed me to create non commercial projects available on my Github profile.</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marmichno&" alt="marmichno" /></p>
